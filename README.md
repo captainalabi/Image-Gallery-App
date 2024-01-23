@@ -1,0 +1,1 @@
+An image app that can be adapted to any app that requires image operations such as ecommerce, photo album, student or employee data, etc. Uses spring boot jpa, hibernate, ajax, js, thymeleaf, allows CRUD operations on images and associated data.
